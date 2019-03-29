@@ -1,0 +1,22 @@
+{
+"product" :[{"id":1,"name":"Sheathbill, snowy","category":"Fuscia"},
+{"id":2,"name":"Stork, european","category":"Teal"},
+{"id":3,"name":"Klipspringer","category":"Purple"},
+{"id":4,"name":"Spotted-tailed quoll","category":"Red"},
+{"id":5,"name":"Snake, green vine","category":"Khaki"},
+{"id":6,"name":"Lilac-breasted roller","category":"Turquoise"},
+{"id":7,"name":"Asian openbill","category":"Pink"},
+{"id":8,"name":"Rhea, gray","category":"Red"},
+{"id":9,"name":"Native cat","category":"Pink"},
+{"id":10,"name":"Rainbow lory","category":"Puce"},
+{"id":11,"name":"Blue-tongued skink","category":"Yellow"},
+{"id":12,"name":"Possum, western pygmy","category":"Turquoise"},
+{"id":13,"name":"Mongoose, yellow","category":"Mauv"},
+{"id":14,"name":"Coqui francolin","category":"Indigo"},
+{"id":15,"name":"Silver-backed fox","category":"Orange"},
+{"id":16,"name":"Lapwing, southern","category":"Green"},
+{"id":17,"name":"Lesser flamingo","category":"Green"},
+{"id":18,"name":"King vulture","category":"Crimson"},
+{"id":19,"name":"Shark, blue","category":"Violet"},
+{"id":20,"name":"Gull, silver","category":"Purple"}]
+}
